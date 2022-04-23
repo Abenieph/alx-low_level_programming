@@ -1,1 +1,1 @@
-static lib
+this is a test 
